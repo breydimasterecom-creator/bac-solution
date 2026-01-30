@@ -1,0 +1,8 @@
+{
+  "name": "Bac-Solution",
+  "description": "Une plateforme d'apprentissage intelligente pour aider les étudiants à réussir leur baccalauréat avec des examens officiels et un tuteur IA personnalisé.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
